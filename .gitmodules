@@ -1,0 +1,3 @@
+[submodule "hello-debian-packaging"]
+	path = hello-debian-packaging
+	url = https://github.com/Lin-Buo-Ren/Hello-Debian-Packaging
