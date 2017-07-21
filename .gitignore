@@ -5,3 +5,5 @@
 !.git*
 
 nohup.out
+/hello-debian-packaging-*
+/hello-debian-packaging_*
